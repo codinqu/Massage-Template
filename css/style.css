@@ -1,0 +1,11 @@
+.headerContain {
+    background-color: rgb(177, 176, 176);
+    padding-top: 20px;
+    padding-bottom: 7px;
+}
+
+.navBar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
