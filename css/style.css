@@ -9,3 +9,11 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.mainImage img {
+    height: 573px;
+}
+
+.mainImgText img {
+    height: 100px;
+}
