@@ -1,5 +1,5 @@
 .headerContain {
-    background-color: rgb(177, 176, 176);
+    background-color: lightblue;
     padding-top: 20px;
     padding-bottom: 7px;
 }
@@ -11,9 +11,66 @@
 }
 
 .mainImage img {
-    height: 573px;
+    height: 714px;
+    padding-left: 142px;
+    padding-top: 43px;
+}
+
+.mainImage p {
+    font-size: 13px;
+    text-align: end;
+    padding-right: 151px;
+}
+
+.heroImg {
+    position: relative;
+}
+
+.mainImgText {
+    position: absolute;
+    right: -10px;
+    top: 172px;
+    text-align: center;
 }
 
 .mainImgText img {
+    height: 100px;
+}
+
+.mainImgText h1 {
+    padding-top: 26px;
+    font-family: auto;
+    padding-bottom: 5px;
+    color: antiquewhite;
+    font-size: 53px;
+}
+
+.mainImgText p {
+    font-size: 21px;
+    font-family: auto;
+    color: antiquewhite;
+}
+
+.servicesContain {
+    position: relative;
+}
+
+.servicesContain img {
+    height: 217px;
+}
+
+.newsNwel {
+    display: flex;
+}
+
+#newEve {
+    padding-right: 123px;
+}
+
+.welcome {
+    display: flex;
+}
+
+.welcome img {
     height: 100px;
 }
